@@ -188,7 +188,7 @@
     <dependency>
       <groupId>commons-validator</groupId>
       <artifactId>commons-validator</artifactId>
-      <version>${commons-validator.version}</version>
+      <version>1.7</version>
       <exclusions>
         <exclusion>
           <groupId>*</groupId>
@@ -418,7 +418,7 @@
     <dependency>
       <groupId>org.odftoolkit</groupId>
       <artifactId>odfdom-java</artifactId>
-      <version>${odfdom-java.version}</version>
+      <version>0.11.0</version>
       <exclusions>
         <exclusion>
           <groupId>*</groupId>
@@ -536,7 +536,7 @@
     <dependency>
       <groupId>org.yaml</groupId>
       <artifactId>snakeyaml</artifactId>
-      <version>${snakeyaml.version}</version>
+      <version>2.0</version>
       <exclusions>
         <exclusion>
           <groupId>*</groupId>
@@ -658,7 +658,7 @@
     <dependency>
       <groupId>org.hibernate</groupId>
       <artifactId>hibernate-core</artifactId>
-      <version>${hibernate-core.version}</version>
+      <version>4.1.2</version>
       <exclusions>
         <exclusion>
           <groupId>*</groupId>
@@ -669,7 +669,7 @@
     <dependency>
       <groupId>org.hibernate</groupId>
       <artifactId>hibernate-c3p0</artifactId>
-      <version>${hibernate-c3p0.version}</version>
+      <version>4.1.2</version>
       <exclusions>
         <exclusion>
           <groupId>*</groupId>
@@ -691,7 +691,7 @@
     <dependency>
       <groupId>org.hibernate</groupId>
       <artifactId>hibernate-ehcache</artifactId>
-      <version>${hibernate-ehcache.version}</version>
+      <version>4.1.2</version>
       <exclusions>
         <exclusion>
           <groupId>*</groupId>

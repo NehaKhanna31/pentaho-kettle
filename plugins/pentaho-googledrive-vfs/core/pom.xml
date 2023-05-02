@@ -40,22 +40,22 @@
         <dependency>
             <groupId>com.google.apis</groupId>
             <artifactId>google-api-services-drive</artifactId>
-            <version>v3-rev77-1.22.0</version>
+            <version>v3-rev20220709-2.0.0</version>
         </dependency>
         <dependency>
             <groupId>com.google.http-client</groupId>
             <artifactId>google-http-client</artifactId>
-            <version>${project.http.version}</version>
+            <version>1.28.0</version>
         </dependency>
         <dependency>
             <groupId>com.google.http-client</groupId>
             <artifactId>google-http-client-jackson2</artifactId>
-            <version>${project.http.version}</version>
+            <version>1.28.0</version>
         </dependency>
         <dependency>
             <groupId>com.google.oauth-client</groupId>
             <artifactId>google-oauth-client-jetty</artifactId>
-            <version>${project.oauth.version}</version>
+            <version>1.33.3</version>
         </dependency>
         <dependency>
             <groupId>org.apache.commons</groupId>

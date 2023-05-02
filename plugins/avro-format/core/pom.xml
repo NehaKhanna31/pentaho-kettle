@@ -83,7 +83,7 @@
 	<dependency>
 		<groupId>org.apache.avro</groupId>
 		<artifactId>avro</artifactId>
-		<version>${org.apache.avro.version}</version>
+		<version>1.11.0</version>
 		<scope>compile</scope>
 	</dependency>
     <dependency>
